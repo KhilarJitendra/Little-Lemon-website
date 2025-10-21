@@ -1,1 +1,1 @@
-# Little-Lemon-website
+# Little-Lemon-website (Coursera assignment)
